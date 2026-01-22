@@ -7,7 +7,7 @@ An AI-powered learning platform that creates personalized roadmaps to help you m
 
 ## ✨ Features
 
-- 🤖 **AI-Powered Roadmaps** - Generate personalized learning paths in seconds
+- 🤖 **AI-Powered Roadmaps** - Generate personalized learning paths in seconds 
 - 📊 **Smart Assessment** - Take skill-level quizzes to find your starting point
 - 📅 **Visual Progress Tracking** - Calendar view with task completion tracking
 - 🎯 **Goal-Oriented** - Customize roadmaps for job-readiness, interviews, or projects
